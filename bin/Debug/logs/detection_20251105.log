@@ -1,0 +1,992 @@
+[2025-11-05 02:00:40] [INFO] PlateDetectionService initialized
+[2025-11-05 02:00:40] [INFO] Python: python
+[2025-11-05 02:00:40] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[2025-11-05 02:00:40] [INFO] Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[2025-11-05 02:00:40] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[2025-11-05 02:01:01] [WARNING] Không có detection nào đang chạy cho camera 19
+[2025-11-05 02:01:05] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[2025-11-05 02:01:05] [ERROR] [Camera 19 ERROR] Traceback (most recent call last):
+[2025-11-05 02:01:05] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 1, in <module>
+[2025-11-05 02:01:05] [ERROR] [Camera 19 ERROR]     \ufeffimport cv2
+[2025-11-05 02:01:05] [ERROR] [Camera 19 ERROR]     ^^^^^^^^
+[2025-11-05 02:01:05] [ERROR] [Camera 19 ERROR] ModuleNotFoundError: No module named 'cv2'
+[2025-11-05 02:01:05] [WARNING] Detection process for camera 19 exited with code 1
+[2025-11-05 02:01:08] [INFO] Stopped detection for camera 19
+[2025-11-05 02:01:10] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[2025-11-05 02:01:10] [ERROR] [Camera 19 ERROR] Traceback (most recent call last):
+[2025-11-05 02:01:10] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 1, in <module>
+[2025-11-05 02:01:10] [ERROR] [Camera 19 ERROR]     \ufeffimport cv2
+[2025-11-05 02:01:10] [ERROR] [Camera 19 ERROR]     ^^^^^^^^
+[2025-11-05 02:01:10] [ERROR] [Camera 19 ERROR] ModuleNotFoundError: No module named 'cv2'
+[2025-11-05 02:01:10] [WARNING] Detection process for camera 19 exited with code 1
+[2025-11-05 02:01:13] [INFO] Stopped detection for camera 19
+[2025-11-05 02:01:14] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[2025-11-05 02:01:14] [ERROR] [Camera 19 ERROR] Traceback (most recent call last):
+[2025-11-05 02:01:14] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 1, in <module>
+[2025-11-05 02:01:14] [ERROR] [Camera 19 ERROR]     \ufeffimport cv2
+[2025-11-05 02:01:14] [ERROR] [Camera 19 ERROR]     ^^^^^^^^
+[2025-11-05 02:01:14] [ERROR] [Camera 19 ERROR] ModuleNotFoundError: No module named 'cv2'
+[2025-11-05 02:01:14] [WARNING] Detection process for camera 19 exited with code 1
+[2025-11-05 02:01:17] [INFO] Started detection for camera 20, RTSP: rtsp://admin:canloc123@14.241.47.181:2554/cam/realmonitor?channel=1&subtype=0
+[2025-11-05 02:01:17] [ERROR] [Camera 20 ERROR] Traceback (most recent call last):
+[2025-11-05 02:01:17] [ERROR] [Camera 20 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 1, in <module>
+[2025-11-05 02:01:17] [ERROR] [Camera 20 ERROR]     \ufeffimport cv2
+[2025-11-05 02:01:17] [ERROR] [Camera 20 ERROR]     ^^^^^^^^
+[2025-11-05 02:01:17] [ERROR] [Camera 20 ERROR] ModuleNotFoundError: No module named 'cv2'
+[2025-11-05 02:01:17] [WARNING] Detection process for camera 20 exited with code 1
+[2025-11-05 02:02:57] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[2025-11-05 02:02:57] [ERROR] [Camera 19 ERROR] Traceback (most recent call last):
+[2025-11-05 02:02:57] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 1, in <module>
+[2025-11-05 02:02:57] [ERROR] [Camera 19 ERROR]     \ufeffimport cv2
+[2025-11-05 02:02:57] [ERROR] [Camera 19 ERROR]     ^^^^^^^^
+[2025-11-05 02:02:57] [ERROR] [Camera 19 ERROR] ModuleNotFoundError: No module named 'cv2'
+[2025-11-05 02:02:57] [WARNING] Detection process for camera 19 exited with code 1
+[2025-11-05 02:02:59] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[2025-11-05 02:02:59] [ERROR] [Camera 19 ERROR] Traceback (most recent call last):
+[2025-11-05 02:02:59] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 1, in <module>
+[2025-11-05 02:02:59] [ERROR] [Camera 19 ERROR]     \ufeffimport cv2
+[2025-11-05 02:02:59] [ERROR] [Camera 19 ERROR]     ^^^^^^^^
+[2025-11-05 02:02:59] [ERROR] [Camera 19 ERROR] ModuleNotFoundError: No module named 'cv2'
+[2025-11-05 02:02:59] [WARNING] Detection process for camera 19 exited with code 1
+[2025-11-05 02:03:00] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[2025-11-05 02:03:00] [ERROR] [Camera 19 ERROR] Traceback (most recent call last):
+[2025-11-05 02:03:00] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 1, in <module>
+[2025-11-05 02:03:00] [ERROR] [Camera 19 ERROR]     \ufeffimport cv2
+[2025-11-05 02:03:00] [ERROR] [Camera 19 ERROR]     ^^^^^^^^
+[2025-11-05 02:03:00] [ERROR] [Camera 19 ERROR] ModuleNotFoundError: No module named 'cv2'
+[2025-11-05 02:03:00] [WARNING] Detection process for camera 19 exited with code 1
+[2025-11-05 02:03:00] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[2025-11-05 02:03:00] [ERROR] [Camera 19 ERROR] Traceback (most recent call last):
+[2025-11-05 02:03:00] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 1, in <module>
+[2025-11-05 02:03:00] [ERROR] [Camera 19 ERROR]     \ufeffimport cv2
+[2025-11-05 02:03:00] [ERROR] [Camera 19 ERROR]     ^^^^^^^^
+[2025-11-05 02:03:00] [ERROR] [Camera 19 ERROR] ModuleNotFoundError: No module named 'cv2'
+[2025-11-05 02:03:00] [WARNING] Detection process for camera 19 exited with code 1
+[2025-11-05 02:03:02] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[2025-11-05 02:03:02] [ERROR] [Camera 19 ERROR] Traceback (most recent call last):
+[2025-11-05 02:03:02] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 1, in <module>
+[2025-11-05 02:03:02] [ERROR] [Camera 19 ERROR]     \ufeffimport cv2
+[2025-11-05 02:03:02] [ERROR] [Camera 19 ERROR]     ^^^^^^^^
+[2025-11-05 02:03:02] [ERROR] [Camera 19 ERROR] ModuleNotFoundError: No module named 'cv2'
+[2025-11-05 02:03:02] [WARNING] Detection process for camera 19 exited with code 1
+[2025-11-05 02:03:03] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[2025-11-05 02:03:03] [ERROR] [Camera 19 ERROR] Traceback (most recent call last):
+[2025-11-05 02:03:03] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 1, in <module>
+[2025-11-05 02:03:03] [ERROR] [Camera 19 ERROR]     \ufeffimport cv2
+[2025-11-05 02:03:03] [ERROR] [Camera 19 ERROR]     ^^^^^^^^
+[2025-11-05 02:03:03] [ERROR] [Camera 19 ERROR] ModuleNotFoundError: No module named 'cv2'
+[2025-11-05 02:03:03] [WARNING] Detection process for camera 19 exited with code 1
+[2025-11-05 02:03:04] [INFO] Stopped detection for camera 19
+[2025-11-05 02:03:04] [INFO] Started detection for camera 20, RTSP: rtsp://admin:canloc123@14.241.47.181:2554/cam/realmonitor?channel=1&subtype=0
+[2025-11-05 02:03:04] [ERROR] [Camera 20 ERROR] Traceback (most recent call last):
+[2025-11-05 02:03:04] [ERROR] [Camera 20 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 1, in <module>
+[2025-11-05 02:03:04] [ERROR] [Camera 20 ERROR]     \ufeffimport cv2
+[2025-11-05 02:03:04] [ERROR] [Camera 20 ERROR]     ^^^^^^^^
+[2025-11-05 02:03:04] [ERROR] [Camera 20 ERROR] ModuleNotFoundError: No module named 'cv2'
+[2025-11-05 02:03:04] [WARNING] Detection process for camera 20 exited with code 1
+[2025-11-05 02:03:09] [WARNING] Không có detection nào đang chạy cho camera 19
+[2025-11-05 02:03:14] [INFO] Started detection for camera 20, RTSP: rtsp://admin:canloc123@14.241.47.181:2554/cam/realmonitor?channel=1&subtype=0
+[2025-11-05 02:03:14] [ERROR] [Camera 20 ERROR] Traceback (most recent call last):
+[2025-11-05 02:03:14] [ERROR] [Camera 20 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 1, in <module>
+[2025-11-05 02:03:14] [ERROR] [Camera 20 ERROR]     \ufeffimport cv2
+[2025-11-05 02:03:14] [ERROR] [Camera 20 ERROR]     ^^^^^^^^
+[2025-11-05 02:03:14] [ERROR] [Camera 20 ERROR] ModuleNotFoundError: No module named 'cv2'
+[2025-11-05 02:03:14] [WARNING] Detection process for camera 20 exited with code 1
+[2025-11-05 02:03:15] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[2025-11-05 02:03:15] [ERROR] [Camera 19 ERROR] Traceback (most recent call last):
+[2025-11-05 02:03:15] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 1, in <module>
+[2025-11-05 02:03:15] [ERROR] [Camera 19 ERROR]     \ufeffimport cv2
+[2025-11-05 02:03:15] [ERROR] [Camera 19 ERROR]     ^^^^^^^^
+[2025-11-05 02:03:15] [ERROR] [Camera 19 ERROR] ModuleNotFoundError: No module named 'cv2'
+[2025-11-05 02:03:15] [WARNING] Detection process for camera 19 exited with code 1
+[2025-11-05 02:03:16] [INFO] Stopped detection for camera 20
+[2025-11-05 02:03:18] [WARNING] Không có detection nào đang chạy cho camera 20
+[2025-11-05 02:03:20] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[2025-11-05 02:03:20] [ERROR] [Camera 19 ERROR] Traceback (most recent call last):
+[2025-11-05 02:03:20] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 1, in <module>
+[2025-11-05 02:03:20] [ERROR] [Camera 19 ERROR]     \ufeffimport cv2
+[2025-11-05 02:03:20] [ERROR] [Camera 19 ERROR]     ^^^^^^^^
+[2025-11-05 02:03:20] [ERROR] [Camera 19 ERROR] ModuleNotFoundError: No module named 'cv2'
+[2025-11-05 02:03:20] [WARNING] Detection process for camera 19 exited with code 1
+[2025-11-05 02:29:07] [INFO] PlateDetectionService initialized
+[2025-11-05 02:29:07] [INFO] Python: python
+[2025-11-05 02:29:07] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[2025-11-05 02:29:07] [INFO] Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[2025-11-05 02:29:07] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[2025-11-05 02:29:46] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[2025-11-05 02:29:47] [WARNING] Detection đã đang chạy cho camera 19
+[2025-11-05 02:29:49] [WARNING] Detection đã đang chạy cho camera 19
+[2025-11-05 02:29:50] [WARNING] Detection process for camera 19 exited with code -1
+[2025-11-05 02:29:50] [INFO] Stopped detection for camera 19
+[02:34:22] [INFO] PlateDetectionService initialized
+[02:34:22] [INFO] Python: python
+[02:34:22] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[02:34:22] [INFO] Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[02:34:22] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[02:34:37] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[02:34:46] [ERROR] [Camera 19 ERROR] Traceback (most recent call last):
+[02:34:46] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 7, in <module>
+[02:34:46] [ERROR] [Camera 19 ERROR]     import pyodbc
+[02:34:46] [ERROR] [Camera 19 ERROR] ModuleNotFoundError: No module named 'pyodbc'
+[02:34:46] [WARN] Detection process for camera 19 exited with code 1
+[02:36:14] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[02:36:16] [ERROR] [Camera 19 ERROR] Traceback (most recent call last):
+[02:36:16] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 7, in <module>
+[02:36:16] [ERROR] [Camera 19 ERROR]     import pyodbc
+[02:36:16] [ERROR] [Camera 19 ERROR] ModuleNotFoundError: No module named 'pyodbc'
+[02:36:16] [WARN] Detection process for camera 19 exited with code 1
+[02:36:16] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[02:36:18] [ERROR] [Camera 19 ERROR] Traceback (most recent call last):
+[02:36:18] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 7, in <module>
+[02:36:18] [ERROR] [Camera 19 ERROR]     import pyodbc
+[02:36:18] [ERROR] [Camera 19 ERROR] ModuleNotFoundError: No module named 'pyodbc'
+[02:36:18] [WARN] Detection process for camera 19 exited with code 1
+[02:38:09] [INFO] PlateDetectionService initialized
+[02:38:09] [INFO] Python: python
+[02:38:09] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[02:38:09] [INFO] Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[02:38:09] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[02:38:12] [WARN] Không có detection nào đang chạy cho camera 19
+[02:38:16] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[02:38:20] [ERROR] [Camera 19 ERROR] Traceback (most recent call last):
+[02:38:20] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 216, in <module>
+[02:38:20] [ERROR] [Camera 19 ERROR]     main()
+[02:38:20] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 207, in main
+[02:38:20] [ERROR] [Camera 19 ERROR]     detector = PlateDetector(MODEL_PATH, CONNECTION_STRING, OUTPUT_DIR)
+[02:38:20] [ERROR] [Camera 19 ERROR]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[02:38:20] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 20, in __init__
+[02:38:20] [ERROR] [Camera 19 ERROR]     self.model = YOLO(model_path)
+[02:38:20] [ERROR] [Camera 19 ERROR]                  ^^^^^^^^^^^^^^^^
+[02:38:20] [ERROR] [Camera 19 ERROR]   File "C:\Users\vohoa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\ultralytics\models\yolo\model.py", line 81, in __init__
+[02:38:20] [ERROR] [Camera 19 ERROR]     super().__init__(model=model, task=task, verbose=verbose)
+[02:38:20] [ERROR] [Camera 19 ERROR]   File "C:\Users\vohoa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\ultralytics\engine\model.py", line 149, in __init__
+[02:38:20] [ERROR] [Camera 19 ERROR]     self._load(model, task=task)
+[02:38:20] [ERROR] [Camera 19 ERROR]   File "C:\Users\vohoa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\ultralytics\engine\model.py", line 288, in _load
+[02:38:20] [ERROR] [Camera 19 ERROR]     self.model, self.ckpt = load_checkpoint(weights)
+[02:38:20] [ERROR] [Camera 19 ERROR]                             ^^^^^^^^^^^^^^^^^^^^^^^^
+[02:38:20] [ERROR] [Camera 19 ERROR]   File "C:\Users\vohoa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\ultralytics\nn\tasks.py", line 1461, in load_checkpoint
+[02:38:20] [ERROR] [Camera 19 ERROR]     ckpt, weight = torch_safe_load(weight)  # load ckpt
+[02:38:20] [ERROR] [Camera 19 ERROR]                    ^^^^^^^^^^^^^^^^^^^^^^^
+[02:38:20] [ERROR] [Camera 19 ERROR]   File "C:\Users\vohoa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\ultralytics\nn\tasks.py", line 1409, in torch_safe_load
+[02:38:20] [ERROR] [Camera 19 ERROR]     ckpt = torch_load(file, map_location="cpu")
+[02:38:20] [ERROR] [Camera 19 ERROR]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[02:38:20] [ERROR] [Camera 19 ERROR]   File "C:\Users\vohoa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\ultralytics\utils\patches.py", line 116, in torch_load
+[02:38:20] [ERROR] [Camera 19 ERROR]     return torch.load(*args, **kwargs)
+[02:38:20] [ERROR] [Camera 19 ERROR]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[02:38:20] [ERROR] [Camera 19 ERROR]   File "C:\Users\vohoa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\torch\serialization.py", line 1484, in load
+[02:38:20] [ERROR] [Camera 19 ERROR]     with _open_file_like(f, "rb") as opened_file:
+[02:38:20] [ERROR] [Camera 19 ERROR]          ^^^^^^^^^^^^^^^^^^^^^^^^
+[02:38:20] [ERROR] [Camera 19 ERROR]   File "C:\Users\vohoa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\torch\serialization.py", line 759, in _open_file_like
+[02:38:20] [ERROR] [Camera 19 ERROR]     return _open_file(name_or_buffer, mode)
+[02:38:20] [ERROR] [Camera 19 ERROR]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[02:38:20] [ERROR] [Camera 19 ERROR]   File "C:\Users\vohoa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\torch\serialization.py", line 740, in __init__
+[02:38:20] [ERROR] [Camera 19 ERROR]     super().__init__(open(name, mode))
+[02:38:20] [ERROR] [Camera 19 ERROR]                      ^^^^^^^^^^^^^^^^
+[02:38:20] [ERROR] [Camera 19 ERROR] FileNotFoundError: [Errno 2] No such file or directory: 'path\\to\\your\\yolov11_plate_model.pt'
+[02:38:20] [WARN] Detection process for camera 19 exited with code 1
+[02:41:30] [INFO] PlateDetectionService initialized
+[02:41:30] [INFO] Python: python
+[02:41:30] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[02:41:30] [INFO] Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[02:41:30] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[02:41:39] [WARN] Không có detection nào đang chạy cho camera 19
+[02:41:44] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[02:41:50] [ERROR] [Camera 19 ERROR] Traceback (most recent call last):
+[02:41:50] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 216, in <module>
+[02:41:50] [ERROR] [Camera 19 ERROR]     main()
+[02:41:50] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 207, in main
+[02:41:50] [ERROR] [Camera 19 ERROR]     detector = PlateDetector(MODEL_PATH, CONNECTION_STRING, OUTPUT_DIR)
+[02:41:50] [ERROR] [Camera 19 ERROR]                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[02:41:50] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 20, in __init__
+[02:41:50] [ERROR] [Camera 19 ERROR]     self.model = YOLO(model_path)
+[02:41:50] [ERROR] [Camera 19 ERROR]                  ^^^^^^^^^^^^^^^^
+[02:41:50] [ERROR] [Camera 19 ERROR]   File "C:\Users\vohoa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\ultralytics\models\yolo\model.py", line 81, in __init__
+[02:41:50] [ERROR] [Camera 19 ERROR]     super().__init__(model=model, task=task, verbose=verbose)
+[02:41:50] [ERROR] [Camera 19 ERROR]   File "C:\Users\vohoa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\ultralytics\engine\model.py", line 149, in __init__
+[02:41:50] [ERROR] [Camera 19 ERROR]     self._load(model, task=task)
+[02:41:50] [ERROR] [Camera 19 ERROR]   File "C:\Users\vohoa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\ultralytics\engine\model.py", line 288, in _load
+[02:41:50] [ERROR] [Camera 19 ERROR]     self.model, self.ckpt = load_checkpoint(weights)
+[02:41:50] [ERROR] [Camera 19 ERROR]                             ^^^^^^^^^^^^^^^^^^^^^^^^
+[02:41:50] [ERROR] [Camera 19 ERROR]   File "C:\Users\vohoa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\ultralytics\nn\tasks.py", line 1461, in load_checkpoint
+[02:41:50] [ERROR] [Camera 19 ERROR]     ckpt, weight = torch_safe_load(weight)  # load ckpt
+[02:41:50] [ERROR] [Camera 19 ERROR]                    ^^^^^^^^^^^^^^^^^^^^^^^
+[02:41:50] [ERROR] [Camera 19 ERROR]   File "C:\Users\vohoa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\ultralytics\nn\tasks.py", line 1409, in torch_safe_load
+[02:41:50] [ERROR] [Camera 19 ERROR]     ckpt = torch_load(file, map_location="cpu")
+[02:41:50] [ERROR] [Camera 19 ERROR]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[02:41:50] [ERROR] [Camera 19 ERROR]   File "C:\Users\vohoa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\ultralytics\utils\patches.py", line 116, in torch_load
+[02:41:50] [ERROR] [Camera 19 ERROR]     return torch.load(*args, **kwargs)
+[02:41:50] [ERROR] [Camera 19 ERROR]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[02:41:50] [ERROR] [Camera 19 ERROR]   File "C:\Users\vohoa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\torch\serialization.py", line 1484, in load
+[02:41:50] [ERROR] [Camera 19 ERROR]     with _open_file_like(f, "rb") as opened_file:
+[02:41:50] [ERROR] [Camera 19 ERROR]          ^^^^^^^^^^^^^^^^^^^^^^^^
+[02:41:50] [ERROR] [Camera 19 ERROR]   File "C:\Users\vohoa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\torch\serialization.py", line 759, in _open_file_like
+[02:41:50] [ERROR] [Camera 19 ERROR]     return _open_file(name_or_buffer, mode)
+[02:41:50] [ERROR] [Camera 19 ERROR]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[02:41:50] [ERROR] [Camera 19 ERROR]   File "C:\Users\vohoa\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.12_qbz5n2kfra8p0\LocalCache\local-packages\Python312\site-packages\torch\serialization.py", line 740, in __init__
+[02:41:50] [ERROR] [Camera 19 ERROR]     super().__init__(open(name, mode))
+[02:41:50] [ERROR] [Camera 19 ERROR]                      ^^^^^^^^^^^^^^^^
+[02:41:50] [ERROR] [Camera 19 ERROR] FileNotFoundError: [Errno 2] No such file or directory: 'models\\yolov11_plate_model.pt'
+[02:41:51] [WARN] Detection process for camera 19 exited with code 1
+[02:42:02] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[02:42:03] [WARN] Detection đã đang chạy cho camera 19
+[02:42:43] [INFO] PlateDetectionService initialized
+[02:42:43] [INFO] Python: python
+[02:42:43] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[02:42:43] [INFO] Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[02:42:43] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[02:42:49] [WARN] Không có detection nào đang chạy cho camera 19
+[02:42:52] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[02:43:25] [ERROR] [Camera 19 ERROR] [ WARN:0@30.057] global cap_ffmpeg_impl.hpp:453 _opencv_ffmpeg_interrupt_callback Stream timeout triggered after 30044.057000 ms
+[02:43:39] [WARN] Detection đã đang chạy cho camera 19
+[02:43:43] [WARN] Detection process for camera 19 exited with code -1
+[02:43:43] [INFO] Stopped detection for camera 19
+[02:43:43] [WARN] Detection process for camera 19 exited (unknown code)
+[02:43:47] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[02:44:20] [ERROR] [Camera 19 ERROR] [ WARN:0@30.034] global cap_ffmpeg_impl.hpp:453 _opencv_ffmpeg_interrupt_callback Stream timeout triggered after 30033.109000 ms
+[02:45:24] [INFO] PlateDetectionService initialized
+[02:45:24] [INFO] Python: python
+[02:45:24] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[02:45:24] [INFO] Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[02:45:24] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[02:45:26] [WARN] Không có detection nào đang chạy cho camera 19
+[02:45:28] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[02:46:23] [WARN] Detection đã đang chạy cho camera 19
+[02:46:50] [WARN] Detection process for camera 19 exited with code -1
+[02:46:50] [INFO] Stopped detection for camera 19
+[02:46:50] [WARN] Detection process for camera 19 exited (unknown code)
+[02:59:30] [INFO] PlateDetectionService initialized
+[02:59:30] [INFO] Python: python
+[02:59:30] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[02:59:30] [INFO] Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[02:59:30] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[03:00:21] [INFO] PlateDetectionService initialized
+[03:00:21] [INFO] Python: python
+[03:00:21] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[03:00:21] [INFO] Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[03:00:21] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[03:00:36] [WARN] Không có detection nào đang chạy cho camera 22
+[03:00:38] [WARN] Không có detection nào đang chạy cho camera 22
+[03:00:42] [INFO] Started detection for camera 22, RTSP: rtsp://localhost:8554/hoanglam
+[03:01:50] [WARN] Detection đã đang chạy cho camera 22
+[13:38:38] [INFO] PlateDetectionService initialized
+[13:38:38] [INFO] Python: python
+[13:38:38] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[13:38:38] [INFO] Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[13:38:38] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[13:39:46] [INFO] Started detection for camera 22, RTSP: rtsp://localhost:8554/hoanglam
+[13:39:47] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[13:43:13] [INFO] PlateDetectionService initialized
+[13:43:13] [INFO] Python: python
+[13:43:13] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[13:43:13] [INFO] Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[13:43:13] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[13:43:15] [INFO] Stopping all detections...
+[13:43:15] [INFO] All detections stopped
+[13:43:33] [INFO] PlateDetectionService initialized
+[13:43:33] [INFO] Python: python
+[13:43:33] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[13:43:33] [INFO] Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[13:43:33] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[13:44:53] [INFO] PlateDetectionService initialized
+[13:44:53] [INFO] Python: python
+[13:44:53] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[13:44:53] [INFO] Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[13:44:53] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[13:45:34] [INFO] Stopping all detections...
+[13:45:34] [INFO] All detections stopped
+[14:18:48] [INFO] PlateDetectionService initialized
+[14:18:48] [INFO] Python: python
+[14:18:48] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[14:18:48] [INFO] Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[14:18:48] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[14:19:08] [WARN] Không có detection nào đang chạy cho camera 19
+[14:19:10] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[14:45:17] [INFO] PlateDetectionService initialized
+[14:45:17] [INFO] Python: python
+[14:45:17] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[14:45:17] [INFO] Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[14:45:17] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[14:45:31] [INFO] Started detection for camera 20, RTSP: rtsp://admin:canloc123@14.241.47.181:2554/cam/realmonitor?channel=1&subtype=0
+[14:45:33] [WARN] Không có detection nào đang chạy cho camera 22
+[14:45:36] [WARN] Không có detection nào đang chạy cho camera 19
+[14:45:38] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[14:48:27] [INFO] Started detection for camera 22, RTSP: rtsp://localhost:8554/hoanglam
+[16:11:32] [INFO] PlateDetectionService initialized
+[16:11:32] [INFO] Python: python
+[16:11:32] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[16:11:32] [INFO] Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[16:11:32] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[16:15:15] [INFO] PlateDetectionService initialized
+[16:15:15] [INFO] Python: python
+[16:15:15] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[16:15:15] [INFO] Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[16:15:15] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[16:18:06] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[16:18:08] [INFO] Started detection for camera 20, RTSP: rtsp://admin:canloc123@14.241.47.181:2554/cam/realmonitor?channel=1&subtype=0
+[16:18:10] [INFO] Started detection for camera 22, RTSP: rtsp://localhost:8554/hoanglam
+[16:19:34] [INFO] PlateDetectionService initialized
+[16:19:34] [INFO] Python: python
+[16:19:34] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[16:19:34] [INFO] Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[16:19:34] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[16:20:00] [INFO] Started detection for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[16:20:02] [INFO] Started detection for camera 20, RTSP: rtsp://admin:canloc123@14.241.47.181:2554/cam/realmonitor?channel=1&subtype=0
+[16:20:03] [INFO] Started detection for camera 22, RTSP: rtsp://localhost:8554/hoanglam
+[16:21:32] [INFO] Stopping all detections...
+[16:21:32] [WARN] Detection process for camera 19 exited with code -1
+[16:21:32] [INFO] Stopped detection for camera 19
+[16:21:32] [WARN] Detection process for camera 19 exited (unknown code)
+[16:21:32] [WARN] Detection process for camera 20 exited with code -1
+[16:21:32] [INFO] Stopped detection for camera 20
+[16:21:32] [WARN] Detection process for camera 22 exited with code -1
+[16:21:32] [INFO] Stopped detection for camera 22
+[16:21:32] [INFO] All detections stopped
+[16:21:32] [WARN] Detection process for camera 22 exited (unknown code)
+[19:42:34] [INFO] PlateDetectionService initialized with OCR support
+[19:42:34] [INFO] Python: python
+[19:42:34] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[19:42:34] [INFO] YOLO Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[19:42:34] [INFO] OCR Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\PlateDetectionCustomVN.onnx
+[19:42:34] [INFO] OCR Config: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\VNCustomConfig.yaml
+[19:42:34] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[19:42:37] [WARN] Không có detection nào đang chạy cho camera 22
+[19:42:39] [INFO] OCR enabled for camera 22
+[19:42:39] [INFO] Started detection with OCR for camera 22, RTSP: rtsp://localhost:8554/hoanglam
+[19:42:52] [INFO] [Camera 22] Error importing required libraries: ONNX Runtime is not installed. Run: pip install 'fast-plate-ocr[onnx]' (or [onnx-gpu], etc.)
+[19:42:52] [INFO] [Camera 22] Please install: pip install ultralytics opencv-python pyodbc fast-plate-ocr
+[19:42:52] [WARN] Detection process for camera 22 exited with code 1
+[19:43:02] [ERROR] Không tìm thấy Python: The remote procedure call failed
+[19:43:03] [ERROR] Không tìm thấy Python: The remote procedure call failed
+[19:43:04] [ERROR] Không tìm thấy Python: The remote procedure call failed
+[19:43:06] [WARN] Không có detection nào đang chạy cho camera 22
+[19:43:08] [ERROR] Không tìm thấy Python: The remote procedure call failed
+[19:43:12] [WARN] Không có detection nào đang chạy cho camera 22
+[19:43:14] [ERROR] Không tìm thấy Python: The remote procedure call failed
+[19:43:16] [WARN] Không có detection nào đang chạy cho camera 22
+[19:43:18] [INFO] OCR enabled for camera 22
+[19:43:18] [ERROR] Lỗi khi start detection: The remote procedure call failed
+[19:44:08] [INFO] PlateDetectionService initialized with OCR support
+[19:44:08] [INFO] Python: python
+[19:44:08] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[19:44:08] [INFO] YOLO Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[19:44:08] [INFO] OCR Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\PlateDetectionCustomVN.onnx
+[19:44:08] [INFO] OCR Config: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\VNCustomConfig.yaml
+[19:44:08] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[19:49:49] [INFO] PlateDetectionService initialized with OCR support
+[19:49:49] [INFO] Python: python
+[19:49:49] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[19:49:49] [INFO] YOLO Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[19:49:49] [INFO] OCR Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\PlateDetectionCustomVN.onnx
+[19:49:49] [INFO] OCR Config: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\VNCustomConfig.yaml
+[19:49:49] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[19:51:15] [WARN] Không có detection nào đang chạy cho camera 22
+[19:51:17] [INFO] OCR enabled for camera 22
+[19:51:17] [INFO] Started detection with OCR for camera 22, RTSP: rtsp://localhost:8554/hoanglam
+[19:51:59] [ERROR] [Camera 22 ERROR] [ WARN:0@30.033] global cap_ffmpeg_impl.hpp:453 _opencv_ffmpeg_interrupt_callback Stream timeout triggered after 30024.550000 ms
+[19:51:59] [INFO] [Camera 22] [INIT] Initializing PlateDetector with OCR...
+[19:51:59] [INFO] [Camera 22] [INIT] Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[19:51:59] [INFO] [Camera 22] [INIT] Output dir: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[19:51:59] [INFO] [Camera 22] [INIT] Loading YOLO model...
+[19:51:59] [INFO] [Camera 22] [INIT] YOLO model loaded successfully!
+[19:51:59] [INFO] [Camera 22] [INIT] Initializing FastPlateOCR...
+[19:51:59] [INFO] [Camera 22] [INIT] OCR Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\PlateDetectionCustomVN.onnx
+[19:51:59] [INFO] [Camera 22] [INIT] OCR Config: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\VNCustomConfig.yaml
+[19:51:59] [INFO] [Camera 22] [INIT] Warming up OCR model...
+[19:51:59] [INFO] [Camera 22] [INIT] OCR initialized successfully!
+[19:51:59] [INFO] [Camera 22] [INIT] Output directories ready
+[19:51:59] [INFO] [Camera 22] ============================================================
+[19:51:59] [INFO] [Camera 22] [START] Starting detection for Camera 22
+[19:51:59] [INFO] [Camera 22] [START] RTSP URL: rtsp://localhost:8554/hoanglam
+[19:51:59] [INFO] [Camera 22] [START] OCR: Enabled
+[19:51:59] [INFO] [Camera 22] [START] Skip frames: 2
+[19:51:59] [INFO] [Camera 22] ============================================================
+[19:51:59] [INFO] [Camera 22] [DB] Connected to SQL Server: Microsoft SQL Server 2022 (RTM-GDR) (KB5065221) - ...
+[19:51:59] [INFO] [Camera 22] [STREAM] Connecting to RTSP stream...
+[19:51:59] [INFO] [Camera 22] [ERROR] Cannot open RTSP stream: rtsp://localhost:8554/hoanglam
+[19:51:59] [WARN] Detection process for camera 22 exited with code 0
+[19:52:41] [INFO] OCR enabled for camera 22
+[19:52:41] [INFO] Started detection with OCR for camera 22, RTSP: rtsp://localhost:8554/hoanglam
+[19:53:00] [INFO] OCR enabled for camera 19
+[19:53:00] [INFO] Started detection with OCR for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[19:53:02] [WARN] Detection process for camera 19 exited with code -1
+[19:53:02] [INFO] Stopped detection for camera 19
+[19:53:02] [WARN] Detection process for camera 19 exited (unknown code)
+[19:53:06] [INFO] OCR enabled for camera 19
+[19:53:06] [INFO] Started detection with OCR for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[19:53:09] [WARN] Detection process for camera 22 exited with code -1
+[19:53:09] [INFO] Stopped detection for camera 22
+[20:06:56] [INFO] PlateDetectionService initialized with OCR support
+[20:06:56] [INFO] Python: python
+[20:06:56] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[20:06:56] [INFO] YOLO Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[20:06:56] [INFO] OCR Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\PlateDetectionCustomVN.onnx
+[20:06:56] [INFO] OCR Config: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\VNCustomConfig.yaml
+[20:06:56] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[20:06:58] [INFO] OCR enabled for camera 22
+[20:06:58] [INFO] Started detection with OCR for camera 22, RTSP: rtsp://localhost:8554/hoanglam
+[20:07:07] [INFO] [Camera 22] [INIT] Initializing PlateDetector with OCR...
+[20:07:07] [INFO] [Camera 22] [INIT] Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[20:07:07] [INFO] [Camera 22] [INIT] Output dir: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[20:07:07] [INFO] [Camera 22] [INIT] Loading YOLO model...
+[20:07:07] [INFO] [Camera 22] [INIT] YOLO model loaded successfully!
+[20:07:07] [INFO] [Camera 22] [INIT] Initializing FastPlateOCR...
+[20:07:07] [INFO] [Camera 22] [INIT] OCR Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\PlateDetectionCustomVN.onnx
+[20:07:07] [INFO] [Camera 22] [INIT] OCR Config: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\VNCustomConfig.yaml
+[20:07:07] [INFO] [Camera 22] [INIT] Warming up OCR model...
+[20:07:07] [INFO] [Camera 22] [INIT] OCR initialized successfully!
+[20:07:07] [INFO] [Camera 22] [INIT] Output directories ready
+[20:07:07] [INFO] [Camera 22] ============================================================
+[20:07:07] [INFO] [Camera 22] [START] Starting detection for Camera 22
+[20:07:07] [INFO] [Camera 22] [START] RTSP URL: rtsp://localhost:8554/hoanglam
+[20:07:07] [INFO] [Camera 22] [START] OCR: Enabled
+[20:07:07] [INFO] [Camera 22] [START] Skip frames: 2
+[20:07:07] [INFO] [Camera 22] ============================================================
+[20:07:07] [INFO] [Camera 22] [DB] Connected to SQL Server: Microsoft SQL Server 2022 (RTM-GDR) (KB5065221) - ...
+[20:07:07] [INFO] [Camera 22] [STREAM] Connecting to RTSP stream...
+[20:07:07] [INFO] [Camera 22] [STREAM] Connected! FPS: 25, Resolution: 3840x2160
+[20:07:07] [INFO] [Camera 22] [RUNNING] Detection started. Press Ctrl+C to stop.
+[20:07:07] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:07] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:07] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:07] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:07] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:07] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:07] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:07] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:07] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:07] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:07] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:07] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:07] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:07] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:07] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:07] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:07] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:07] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:07] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:07] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:07] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:07] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:07] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:07] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:07] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:07] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:14] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:14] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:14] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:14] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:14] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:14] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:14] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:14] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:14] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:14] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:14] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:14] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:14] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:14] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:14] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:14] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:14] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:14] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:14] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:14] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:14] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:14] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:14] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:14] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:14] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:14] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:14] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:14] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:14] [INFO] [Camera 22] [STATS] Frames: 41 | Detections: 0 | Valid: 0 | Invalid: 0 | Avg FPS: 3.6
+[20:07:14] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:14] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:14] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:29] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:29] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:29] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:29] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:29] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:29] [INFO] [Camera 22] [STATS] Frames: 89 | Detections: 0 | Valid: 0 | Invalid: 0 | Avg FPS: 4.1
+[20:07:29] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:29] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:29] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:29] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:29] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:29] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:29] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:29] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:29] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:29] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:29] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:29] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:29] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:29] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:29] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:29] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:29] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:29] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:29] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:29] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:29] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:29] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:29] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:29] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:29] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:29] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:29] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:44] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:44] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:44] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:44] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:44] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:44] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:44] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:44] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:44] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:44] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:44] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:44] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:44] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:44] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:44] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:44] [INFO] [Camera 22] [STATS] Frames: 129 | Detections: 0 | Valid: 0 | Invalid: 0 | Avg FPS: 4.0
+[20:07:44] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:44] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:44] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:44] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:44] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:44] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:44] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:44] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:44] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:44] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:44] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:44] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:44] [INFO] [Camera 22] [STATS] Frames: 165 | Detections: 0 | Valid: 0 | Invalid: 0 | Avg FPS: 3.9
+[20:07:44] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:44] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:44] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:07:44] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:07:44] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:00] [ERROR] [Camera 22 ERROR] [rtsp @ 00000271bc50d240] method SETUP failed: 461 Unsupported transport
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc585940] Could not find ref with POC 37
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44b80] Could not find ref with POC 7
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cadd80] Could not find ref with POC 17
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc585940] Could not find ref with POC 28
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa700] The cu_qp_delta -30 is outside the valid range [-26, 25].
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aaf80] Could not find ref with POC 43
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9b22900] The cu_qp_delta 128 is outside the valid range [-26, 25].
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56ba80] Could not find ref with POC 5
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c040] Could not find ref with POC 17
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c040] The cu_qp_delta -31 is outside the valid range [-26, 25].
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c600] The cu_qp_delta -125 is outside the valid range [-26, 25].
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56cd00] Could not find ref with POC 30
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44b80] Could not find ref with POC 43
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cae200] Could not find ref with POC 5
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa000] Could not find ref with POC 17
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56ba80] Could not find ref with POC 29
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56cd00] The cu_qp_delta -42 is outside the valid range [-26, 25].
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44600] Could not find ref with POC 12
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5fa740] Could not find ref with POC 21
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5fa740] The cu_qp_delta 29 is outside the valid range [-26, 25].
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cadd80] Could not find ref with POC 31
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc585940] Could not find ref with POC 42
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa000] Could not find ref with POC 2
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa700] Could not find ref with POC 12
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9b22900] Could not find ref with POC 22
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9bec700] Could not find ref with POC 32
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c040] The cu_qp_delta 48 is outside the valid range [-26, 25].
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c600] Could not find ref with POC 42
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56cd00] Could not find ref with POC 34
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56cd00] The cu_qp_delta 67 is outside the valid range [-26, 25].
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44b80] Could not find ref with POC 44
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cadd80] Could not find ref with POC 4
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c600] Could not find ref with POC 15
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44600] Could not find ref with POC 26
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44b80] The cu_qp_delta -36 is outside the valid range [-26, 25].
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5fa740] Could not find ref with POC 36
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cadd80] Could not find ref with POC 45
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc585940] Could not find ref with POC 5
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c040] Could not find ref with POC 45
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44600] Could not find ref with POC 8
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5fa740] Could not find ref with POC 24
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5fae40] CABAC_MAX_BIN : 7
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5fae40] The cu_qp_delta -1094995529 is outside the valid range [-26, 25].
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cadd80] Could not find ref with POC 45
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc585940] Could not find ref with POC 10
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa700] Could not find ref with POC 25
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aaf80] CABAC_MAX_BIN : 7
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aaf80] The cu_qp_delta 1094995529 is outside the valid range [-26, 25].
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9b22900] Could not find ref with POC 37
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9bec700] Could not find ref with POC 0
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c600] Could not find ref with POC 15
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44600] The cu_qp_delta 105 is outside the valid range [-26, 25].
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44b80] Could not find ref with POC 29
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5fa740] Could not find ref with POC 41
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5fa740] Could not find ref with POC 44
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cadd80] Could not find ref with POC 6
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cae200] The cu_qp_delta -31 is outside the valid range [-26, 25].
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc585940] Could not find ref with POC 18
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa700] Could not find ref with POC 30
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cadd80] Could not find ref with POC 10
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c600] Could not find ref with POC 31
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44600] Could not find ref with POC 40
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5fa740] Could not find ref with POC 2
+[20:08:00] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cadd80] Could not find ref with POC 14
+[20:08:13] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:13] [INFO] [Camera 22] [STATS] Frames: 211 | Detections: 0 | Valid: 0 | Invalid: 0 | Avg FPS: 4.0
+[20:08:13] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:13] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:13] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:13] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:13] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:13] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:13] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:13] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:13] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:13] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:13] [INFO] [Camera 22] [STATS] Frames: 253 | Detections: 0 | Valid: 0 | Invalid: 0 | Avg FPS: 4.1
+[20:08:13] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:13] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:13] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:13] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:13] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:13] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:13] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:13] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:13] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:13] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:13] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:13] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:13] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:13] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:13] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:13] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:13] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:13] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:13] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:13] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:13] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:54] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:54] [INFO] [Camera 22] [STATS] Frames: 301 | Detections: 0 | Valid: 0 | Invalid: 0 | Avg FPS: 4.1
+[20:08:54] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:54] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:54] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:54] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:54] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:54] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:54] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:54] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:54] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:54] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:54] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:54] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:54] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:54] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:54] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:54] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:54] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:54] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:54] [INFO] [Camera 22] [STATS] Frames: 347 | Detections: 0 | Valid: 0 | Invalid: 0 | Avg FPS: 4.2
+[20:08:54] [INFO] [Camera 22] [STATS] Frames: 395 | Detections: 0 | Valid: 0 | Invalid: 0 | Avg FPS: 4.2
+[20:08:54] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:54] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:54] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:54] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:54] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:54] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:54] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:54] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:54] [INFO] [Camera 22] [STATS] Frames: 441 | Detections: 0 | Valid: 0 | Invalid: 0 | Avg FPS: 4.3
+[20:08:54] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:54] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:08:54] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:08:54] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc585940] Could not find ref with POC 26
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa700] Could not find ref with POC 38
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56ba80] Could not find ref with POC 11
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c040] Could not find ref with POC 22
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c040] CABAC_MAX_BIN : 7
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c040] The cu_qp_delta 1094995529 is outside the valid range [-26, 25].
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56cd00] Could not find ref with POC 32
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5fa740] Could not find ref with POC 43
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5fae40] Could not find ref with POC 5
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56cd00] Could not find ref with POC 13
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44b80] Could not find ref with POC 22
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cadd80] Could not find ref with POC 32
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc585940] Could not find ref with POC 43
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa700] Could not find ref with POC 2
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56ba80] Could not find ref with POC 13
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c040] Could not find ref with POC 22
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44600] Could not find ref with POC 33
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44b80] Could not find ref with POC 43
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cadd80] Could not find ref with POC 4
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc585940] Could not find ref with POC 14
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aaf80] Could not find ref with POC 25
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56ba80] Could not find ref with POC 36
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aaf80] Could not find ref with POC 4
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9b22900] Could not find ref with POC 15
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9bec700] Could not find ref with POC 25
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c600] Could not find ref with POC 37
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44b80] Could not find ref with POC 47
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5fae40] Could not find ref with POC 8
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cae200] Could not find ref with POC 18
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44b80] Could not find ref with POC 16
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cadd80] Could not find ref with POC 27
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc585940] Could not find ref with POC 36
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa700] Could not find ref with POC 46
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56ba80] Could not find ref with POC 7
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c040] Could not find ref with POC 18
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56cd00] Could not find ref with POC 29
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44b80] Could not find ref with POC 39
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cae200] Could not find ref with POC 10
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa700] Could not find ref with POC 22
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9b22900] The cu_qp_delta -28 is outside the valid range [-26, 25].
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56ba80] Could not find ref with POC 34
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9bec700] Could not find ref with POC 45
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cae200] Could not find ref with POC 1
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa000] Could not find ref with POC 10
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9b22900] Could not find ref with POC 30
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c600] Could not find ref with POC 4
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56cd00] Could not find ref with POC 15
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44b80] Could not find ref with POC 26
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5fa740] The cu_qp_delta 43 is outside the valid range [-26, 25].
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5fae40] Could not find ref with POC 37
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cae200] Could not find ref with POC 48
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa000] Could not find ref with POC 10
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa700] Could not find ref with POC 21
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9b22900] Could not find ref with POC 32
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9bec700] Could not find ref with POC 43
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c600] Could not find ref with POC 6
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa700] Could not find ref with POC 23
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aaf80] The cu_qp_delta -53 is outside the valid range [-26, 25].
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9b22900] Could not find ref with POC 34
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56ba80] Could not find ref with POC 45
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c040] Could not find ref with POC 5
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56cd00] Could not find ref with POC 15
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44b80] Could not find ref with POC 26
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44600] The cu_qp_delta 63 is outside the valid range [-26, 25].
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cadd80] Could not find ref with POC 36
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc585940] Could not find ref with POC 46
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aaf80] Could not find ref with POC 6
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56ba80] Could not find ref with POC 15
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c040] Could not find ref with POC 26
+[20:09:03] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cadd80] Could not find ref with POC 16
+[20:09:25] [INFO] [Camera 22] [STATS] Frames: 489 | Detections: 0 | Valid: 0 | Invalid: 0 | Avg FPS: 4.3
+[20:09:25] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:09:25] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:09:25] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:09:25] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:09:25] [INFO] [Camera 22] [STATS] Frames: 537 | Detections: 0 | Valid: 0 | Invalid: 0 | Avg FPS: 4.3
+[20:09:25] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:09:25] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:09:25] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:09:25] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:09:25] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:09:25] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:09:25] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:09:25] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:09:25] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:09:25] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:09:25] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:09:25] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:09:25] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:09:25] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:09:25] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:09:25] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:09:25] [INFO] [Camera 22] [STATS] Frames: 581 | Detections: 0 | Valid: 0 | Invalid: 0 | Avg FPS: 4.3
+[20:09:25] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:09:25] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:09:25] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:09:25] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:09:25] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:09:25] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:09:25] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:09:25] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:09:25] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:09:25] [INFO] [Camera 22] [DB ERROR] Failed to save detection: ('23000', '[23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The INSERT statement conflicted with the CHECK constraint "CHK_VR_violation_type". The conflict occurred in database "QuanLyGiaoThong", table "dbo.Vehicle_Records", column \'violation_type\'. (547) (SQLExecDirectW); [23000] [Microsoft][ODBC SQL Server Driver][SQL Server]The statement has been terminated. (3621)')
+[20:09:25] [INFO] [Camera 22] [OCR ERROR] The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc585940] Could not find ref with POC 27
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa000] The cu_qp_delta -55 is outside the valid range [-26, 25].
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa700] Could not find ref with POC 36
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9b22900] Could not find ref with POC 48
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9bec700] Could not find ref with POC 8
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c600] Could not find ref with POC 19
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44b80] Could not find ref with POC 29
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5fae40] Could not find ref with POC 39
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc585940] Could not find ref with POC 2
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa700] Could not find ref with POC 13
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44600] Could not find ref with POC 4
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44b80] Could not find ref with POC 14
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5fae40] Could not find ref with POC 26
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cae200] Could not find ref with POC 38
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa000] Could not find ref with POC 1
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa000] The cu_qp_delta 35 is outside the valid range [-26, 25].
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa700] Could not find ref with POC 10
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aaf80] The cu_qp_delta 28 is outside the valid range [-26, 25].
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9b22900] Could not find ref with POC 20
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56ba80] The cu_qp_delta -58 is outside the valid range [-26, 25].
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9bec700] Could not find ref with POC 31
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c040] Could not find ref with POC 42
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c600] The cu_qp_delta -54 is outside the valid range [-26, 25].
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56cd00] Could not find ref with POC 3
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44600] The cu_qp_delta -29 is outside the valid range [-26, 25].
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44b80] Could not find ref with POC 13
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aaf80] Could not find ref with POC 41
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9b22900] Could not find ref with POC 3
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9bec700] Could not find ref with POC 13
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c600] The cu_qp_delta 27 is outside the valid range [-26, 25].
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56cd00] Could not find ref with POC 24
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44b80] The cu_qp_delta 56 is outside the valid range [-26, 25].
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5fa740] Could not find ref with POC 36
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cadd80] Could not find ref with POC 48
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cae200] The cu_qp_delta -108 is outside the valid range [-26, 25].
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc585940] Could not find ref with POC 11
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa700] Could not find ref with POC 23
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9b22900] The cu_qp_delta 121 is outside the valid range [-26, 25].
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56ba80] Could not find ref with POC 36
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c600] Could not find ref with POC 10
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44600] Could not find ref with POC 23
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa700] Could not find ref with POC 30
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9b22900] Could not find ref with POC 40
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9bec700] Could not find ref with POC 2
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c600] Could not find ref with POC 18
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56cd00] Could not find ref with POC 39
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44b80] Could not find ref with POC 4
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5fae40] Could not find ref with POC 16
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5fa740] The cu_qp_delta -90 is outside the valid range [-26, 25].
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc585940] Could not find ref with POC 28
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa700] Could not find ref with POC 44
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9b22900] Could not find ref with POC 7
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9bec700] Could not find ref with POC 20
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc585940] Could not find ref with POC 25
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc585940] The cu_qp_delta -104 is outside the valid range [-26, 25].
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa000] Could not find ref with POC 38
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aaf80] Could not find ref with POC 48
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56ba80] Could not find ref with POC 8
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc56c600] Could not find ref with POC 22
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44b80] Could not find ref with POC 34
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44b80] CABAC_MAX_BIN : 7
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9c44b80] The cu_qp_delta 1094995529 is outside the valid range [-26, 25].
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5fa740] Could not find ref with POC 43
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9cae200] Could not find ref with POC 4
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271bc5aa000] Could not find ref with POC 13
+[20:09:52] [ERROR] [Camera 22 ERROR] [hevc @ 00000271e9b22900] Could not find ref with POC 24
+[20:20:41] [INFO] PlateDetectionService initialized with OCR support
+[20:20:41] [INFO] Python: python
+[20:20:41] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[20:20:41] [INFO] YOLO Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[20:20:41] [INFO] OCR Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\PlateDetectionCustomVN.onnx
+[20:20:41] [INFO] OCR Config: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\VNCustomConfig.yaml
+[20:20:41] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[20:20:47] [INFO] OCR enabled for camera 19
+[20:20:47] [INFO] Started detection with OCR for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[20:20:48] [WARN] Không có detection nào đang chạy cho camera 22
+[20:20:48] [INFO] OCR enabled for camera 22
+[20:20:48] [INFO] Started detection with OCR for camera 22, RTSP: rtsp://localhost:8554/hoanglam
+[21:03:54] [INFO] PlateDetectionService initialized with OCR support
+[21:03:54] [INFO] Python: python
+[21:03:54] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[21:03:54] [INFO] YOLO Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[21:03:54] [INFO] OCR Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\PlateDetectionCustomVN.onnx
+[21:03:54] [INFO] OCR Config: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\VNCustomConfig.yaml
+[21:03:54] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[22:20:24] [INFO] PlateDetectionService initialized with OCR support
+[22:20:24] [INFO] Python: python
+[22:20:24] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[22:20:24] [INFO] YOLO Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[22:20:24] [INFO] OCR Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\PlateDetectionCustomVN.onnx
+[22:20:24] [INFO] OCR Config: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\VNCustomConfig.yaml
+[22:20:24] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[22:20:35] [WARN] Không có detection nào đang chạy cho camera 22
+[22:20:38] [INFO] OCR enabled for camera 22
+[22:20:39] [INFO] Started detection with OCR for camera 22, RTSP: rtsp://localhost:8554/hoanglam
+[22:20:41] [ERROR] [Camera 22 ERROR] Traceback (most recent call last):
+[22:20:41] [ERROR] [Camera 22 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 23, in <module>
+[22:20:41] [ERROR] [Camera 22 ERROR]     import pandas as pd
+[22:20:41] [ERROR] [Camera 22 ERROR] ModuleNotFoundError: No module named 'pandas'
+[22:20:41] [WARN] Detection process for camera 22 exited with code 1
+[22:20:55] [INFO] OCR enabled for camera 19
+[22:20:55] [INFO] Started detection with OCR for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[22:20:56] [ERROR] [Camera 19 ERROR] Traceback (most recent call last):
+[22:20:56] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 23, in <module>
+[22:20:56] [ERROR] [Camera 19 ERROR]     import pandas as pd
+[22:20:56] [ERROR] [Camera 19 ERROR] ModuleNotFoundError: No module named 'pandas'
+[22:20:56] [WARN] Detection process for camera 19 exited with code 1
+[22:20:57] [INFO] OCR enabled for camera 22
+[22:20:57] [INFO] Started detection with OCR for camera 22, RTSP: rtsp://localhost:8554/hoanglam
+[22:20:57] [ERROR] [Camera 22 ERROR] Traceback (most recent call last):
+[22:20:57] [ERROR] [Camera 22 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 23, in <module>
+[22:20:57] [ERROR] [Camera 22 ERROR]     import pandas as pd
+[22:20:57] [ERROR] [Camera 22 ERROR] ModuleNotFoundError: No module named 'pandas'
+[22:20:57] [WARN] Detection process for camera 22 exited with code 1
+[22:21:13] [INFO] OCR enabled for camera 22
+[22:21:13] [INFO] Started detection with OCR for camera 22, RTSP: rtsp://localhost:8554/hoanglam
+[22:21:13] [WARN] Detection đã đang chạy cho camera 22
+[22:21:13] [ERROR] [Camera 22 ERROR] Traceback (most recent call last):
+[22:21:13] [ERROR] [Camera 22 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 23, in <module>
+[22:21:13] [ERROR] [Camera 22 ERROR]     import pandas as pd
+[22:21:13] [ERROR] [Camera 22 ERROR] ModuleNotFoundError: No module named 'pandas'
+[22:21:14] [WARN] Detection process for camera 22 exited with code 1
+[22:21:17] [INFO] OCR enabled for camera 19
+[22:21:17] [INFO] Started detection with OCR for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[22:21:18] [ERROR] [Camera 19 ERROR] Traceback (most recent call last):
+[22:21:18] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 23, in <module>
+[22:21:18] [ERROR] [Camera 19 ERROR]     import pandas as pd
+[22:21:18] [ERROR] [Camera 19 ERROR] ModuleNotFoundError: No module named 'pandas'
+[22:21:18] [WARN] Detection process for camera 19 exited with code 1
+[22:21:18] [INFO] Stopped detection for camera 22
+[22:21:18] [INFO] OCR enabled for camera 22
+[22:21:19] [INFO] Started detection with OCR for camera 22, RTSP: rtsp://localhost:8554/hoanglam
+[22:21:19] [ERROR] [Camera 22 ERROR] Traceback (most recent call last):
+[22:21:19] [ERROR] [Camera 22 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 23, in <module>
+[22:21:19] [ERROR] [Camera 22 ERROR]     import pandas as pd
+[22:21:19] [ERROR] [Camera 22 ERROR] ModuleNotFoundError: No module named 'pandas'
+[22:21:19] [WARN] Detection process for camera 22 exited with code 1
+[22:21:21] [INFO] OCR enabled for camera 22
+[22:21:21] [INFO] Started detection with OCR for camera 22, RTSP: rtsp://localhost:8554/hoanglam
+[22:21:21] [ERROR] [Camera 22 ERROR] Traceback (most recent call last):
+[22:21:21] [ERROR] [Camera 22 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 23, in <module>
+[22:21:21] [ERROR] [Camera 22 ERROR]     import pandas as pd
+[22:21:21] [ERROR] [Camera 22 ERROR] ModuleNotFoundError: No module named 'pandas'
+[22:21:22] [WARN] Detection process for camera 22 exited with code 1
+[22:21:23] [INFO] Stopped detection for camera 22
+[22:21:25] [INFO] OCR enabled for camera 22
+[22:21:25] [INFO] Started detection with OCR for camera 22, RTSP: rtsp://localhost:8554/hoanglam
+[22:21:26] [ERROR] [Camera 22 ERROR] Traceback (most recent call last):
+[22:21:26] [ERROR] [Camera 22 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 23, in <module>
+[22:21:26] [ERROR] [Camera 22 ERROR]     import pandas as pd
+[22:21:26] [ERROR] [Camera 22 ERROR] ModuleNotFoundError: No module named 'pandas'
+[22:21:26] [WARN] Detection process for camera 22 exited with code 1
+[22:21:29] [INFO] OCR enabled for camera 19
+[22:21:29] [INFO] Started detection with OCR for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[22:21:30] [ERROR] [Camera 19 ERROR] Traceback (most recent call last):
+[22:21:30] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 23, in <module>
+[22:21:30] [ERROR] [Camera 19 ERROR]     import pandas as pd
+[22:21:30] [ERROR] [Camera 19 ERROR] ModuleNotFoundError: No module named 'pandas'
+[22:21:30] [WARN] Detection process for camera 19 exited with code 1
+[22:21:30] [INFO] OCR enabled for camera 22
+[22:21:31] [INFO] Started detection with OCR for camera 22, RTSP: rtsp://localhost:8554/hoanglam
+[22:21:31] [ERROR] [Camera 22 ERROR] Traceback (most recent call last):
+[22:21:31] [ERROR] [Camera 22 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 23, in <module>
+[22:21:31] [ERROR] [Camera 22 ERROR]     import pandas as pd
+[22:21:31] [ERROR] [Camera 22 ERROR] ModuleNotFoundError: No module named 'pandas'
+[22:21:31] [WARN] Detection process for camera 22 exited with code 1
+[22:21:43] [INFO] OCR enabled for camera 19
+[22:21:43] [INFO] Started detection with OCR for camera 19, RTSP: rtsp://admin:canloc123@113.175.240.180:1554/cam/realmonitor?channel=1&subtype=0
+[22:21:45] [INFO] OCR enabled for camera 22
+[22:21:45] [ERROR] [Camera 19 ERROR] Traceback (most recent call last):
+[22:21:45] [ERROR] [Camera 19 ERROR]   File "D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py", line 23, in <module>
+[22:21:45] [ERROR] [Camera 19 ERROR]     import pandas as pd
+[22:21:45] [ERROR] [Camera 19 ERROR] ModuleNotFoundError: No module named 'pandas'
+[22:21:45] [INFO] Started detection with OCR for camera 22, RTSP: rtsp://localhost:8554/hoanglam
+[22:21:45] [WARN] Detection process for camera 19 exited with code 1
+[22:22:04] [INFO] PlateDetectionService initialized with OCR support
+[22:22:04] [INFO] Python: python
+[22:22:04] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[22:22:04] [INFO] YOLO Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[22:22:04] [INFO] OCR Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\PlateDetectionCustomVN.onnx
+[22:22:04] [INFO] OCR Config: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\VNCustomConfig.yaml
+[22:22:04] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates

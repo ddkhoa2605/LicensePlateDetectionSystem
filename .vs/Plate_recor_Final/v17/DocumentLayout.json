@@ -1,0 +1,150 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3E060D7F-3562-48B7-A65E-58EA480EA56E}|Plate_recor_Final.csproj|d:\\fptuniversiry\\chuyennganh\\fall\\dat301m\\project_plate_detection\\winform\\plate_recor_final\\truysuatthongtinxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E060D7F-3562-48B7-A65E-58EA480EA56E}|Plate_recor_Final.csproj|solutionrelative:truysuatthongtinxe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E060D7F-3562-48B7-A65E-58EA480EA56E}|Plate_recor_Final.csproj|D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\phantichgiaothong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E060D7F-3562-48B7-A65E-58EA480EA56E}|Plate_recor_Final.csproj|solutionrelative:phantichgiaothong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E060D7F-3562-48B7-A65E-58EA480EA56E}|Plate_recor_Final.csproj|D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\quanlycamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E060D7F-3562-48B7-A65E-58EA480EA56E}|Plate_recor_Final.csproj|solutionrelative:quanlycamera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E060D7F-3562-48B7-A65E-58EA480EA56E}|Plate_recor_Final.csproj|D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E060D7F-3562-48B7-A65E-58EA480EA56E}|Plate_recor_Final.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E060D7F-3562-48B7-A65E-58EA480EA56E}|Plate_recor_Final.csproj|D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\camgiamsat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E060D7F-3562-48B7-A65E-58EA480EA56E}|Plate_recor_Final.csproj|solutionrelative:camgiamsat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E060D7F-3562-48B7-A65E-58EA480EA56E}|Plate_recor_Final.csproj|D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\detectionstatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E060D7F-3562-48B7-A65E-58EA480EA56E}|Plate_recor_Final.csproj|solutionrelative:detectionstatusform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E060D7F-3562-48B7-A65E-58EA480EA56E}|Plate_recor_Final.csproj|D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\platedetectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E060D7F-3562-48B7-A65E-58EA480EA56E}|Plate_recor_Final.csproj|solutionrelative:platedetectionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 132,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "truysuatthongtinxe.cs",
+              "DocumentMoniker": "D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\truysuatthongtinxe.cs",
+              "RelativeDocumentMoniker": "truysuatthongtinxe.cs",
+              "ToolTip": "D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\truysuatthongtinxe.cs",
+              "RelativeToolTip": "truysuatthongtinxe.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAcwBEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T12:50:05.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PlateDetectionService.cs",
+              "DocumentMoniker": "D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\PlateDetectionService.cs",
+              "RelativeDocumentMoniker": "PlateDetectionService.cs",
+              "ToolTip": "D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\PlateDetectionService.cs",
+              "RelativeToolTip": "PlateDetectionService.cs",
+              "ViewState": "AgIAABsBAAAAAAAAAIAwwDABAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-04T18:45:22.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DetectionStatusForm.cs",
+              "DocumentMoniker": "D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\DetectionStatusForm.cs",
+              "RelativeDocumentMoniker": "DetectionStatusForm.cs",
+              "ToolTip": "D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\DetectionStatusForm.cs",
+              "RelativeToolTip": "DetectionStatusForm.cs",
+              "ViewState": "AgIAAN0AAAAAAAAAAIAwwPUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T07:05:50.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "camgiamsat.cs",
+              "DocumentMoniker": "D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\camgiamsat.cs",
+              "RelativeDocumentMoniker": "camgiamsat.cs",
+              "ToolTip": "D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\camgiamsat.cs",
+              "RelativeToolTip": "camgiamsat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-02T13:34:52.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "phantichgiaothong.cs",
+              "DocumentMoniker": "D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\phantichgiaothong.cs",
+              "RelativeDocumentMoniker": "phantichgiaothong.cs",
+              "ToolTip": "D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\phantichgiaothong.cs",
+              "RelativeToolTip": "phantichgiaothong.cs",
+              "ViewState": "AgIAAHQCAAAAAAAAAIAwwIkCAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T16:03:48.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T15:48:54.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "quanlycamera.cs",
+              "DocumentMoniker": "D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\quanlycamera.cs",
+              "RelativeDocumentMoniker": "quanlycamera.cs",
+              "ToolTip": "D:\\FPTUniversiry\\chuyennganh\\Fall\\DAT301m\\Project_Plate_Detection\\Winform\\Plate_recor_Final\\quanlycamera.cs",
+              "RelativeToolTip": "quanlycamera.cs",
+              "ViewState": "AgIAAA4EAAAAAAAAAAAhwCAEAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-03T12:49:56.553Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

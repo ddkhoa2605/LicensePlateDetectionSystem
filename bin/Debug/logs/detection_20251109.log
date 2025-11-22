@@ -1,0 +1,8 @@
+[21:44:00] [INFO] PlateDetectionService initialized with OCR support
+[21:44:00] [INFO] Python: python
+[21:44:00] [INFO] Script: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\scripts\plate_detector.py
+[21:44:00] [INFO] YOLO Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\yolov11_plate.pt
+[21:44:00] [INFO] OCR Model: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\PlateDetectionCustomVN.onnx
+[21:44:00] [INFO] OCR Config: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\models\VNCustomConfig.yaml
+[21:44:00] [INFO] Output: D:\FPTUniversiry\chuyennganh\Fall\DAT301m\Project_Plate_Detection\Winform\Plate_recor_Final\bin\Debug\detected_plates
+[21:47:32] [WARN] Không có detection nào đang chạy cho camera 22
